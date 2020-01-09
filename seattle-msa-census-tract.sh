@@ -2,7 +2,7 @@
 
 ##Queries the US Census's 5-year American Community survey API for info.  Replace query array with desired variables, and add the appropriate q_human translations at the bottom.  You will need to apply for a (free) US Census API key and replace the key below with yours  List of census tracts -https://www.ffiec.gov/census/
 
-#usage: ./acs1-immigrant.sh
+#usage: ./seattle-msa-census-tract.sh
 
 #backup old files
 mkdir -p archive
